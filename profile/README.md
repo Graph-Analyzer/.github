@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Graph-Analyzer/.github/main/profile/logo.png">
+	<img src="https://raw.githubusercontent.com/Graph-Analyzer/.github/main/profile/logo.png" height="250">
 </p>
 <h1 align="center">Graph Analyzer</h1>
 
