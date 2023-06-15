@@ -4,14 +4,16 @@
 <h1 align="center">Graph Analyzer</h1>
 
 <p align="center">
-The Graph Analyzer is a system developed at the FH OST to display graph properties and to generate service provider networks.
+The Graph Analyzer is a system developed as part of a thesis at FH OST to display graph properties and to generate service provider networks.
 </p>
 
 ---
 
 ## Documentation
-The complete project documentation can be found in the eprints of the FH OST:
-https://eprints.ost.ch/id/eprint/1081/
+The complete project documentation can be found on the eprints platform of the FH OST:
+- Term project: https://eprints.ost.ch/id/eprint/1081/
+- Bachelor's thesis: coming soon...
+
 
 ## Repositories
 The Graph Analyzer project consists of four repositories.
