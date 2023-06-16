@@ -4,19 +4,19 @@
 <h1 align="center">Graph Analyzer</h1>
 
 <p align="center">
-The Graph Analyzer is a system developed as part of a thesis at FH OST to display graph properties and to generate service provider networks.
+The Graph Analyzer system has been developed as part of a thesis at the FH OST to display graph properties and generate service provider networks.
 </p>
 
 ---
 
 ## Documentation
-The complete project documentation can be found on the eprints platform of the FH OST:
+The complete documentation can be found on the eprints platform of the FH OST:
 - Term project: https://eprints.ost.ch/id/eprint/1081/
 - Bachelor's thesis: coming soon...
 
 
 ## Repositories
-The Graph Analyzer project consists of four repositories.
+The Graph Analyzer system consists out of four repositories.
 | Repository | Description |
 | --- | --- |
 | [api](https://github.com/Graph-Analyzer/api) | Graph Analyzer API |
@@ -24,7 +24,7 @@ The Graph Analyzer project consists of four repositories.
 | [data-collector](https://github.com/Graph-Analyzer/data-collector) | Write topology data to the database |
 | [graph-generator](https://github.com/Graph-Analyzer/graph-generator) | Graph Generator API |
 
-In order to have a working setup. The following repository can be used for that.
+The following repositories can be used in order to create a working setup.
 | Repository | Description |
 | --- | --- |
 | [neo4j-image](https://github.com/Graph-Analyzer/neo4j-image) | Instructions to build a Neo4j image |
