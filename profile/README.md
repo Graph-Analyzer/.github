@@ -22,7 +22,7 @@ The Graph Analyzer system consists out of four repositories.
 | [api](https://github.com/Graph-Analyzer/api) | Graph Analyzer API |
 | [frontend](https://github.com/Graph-Analyzer/frontend) | Graph Analyzer Frontend|
 | [data-collector](https://github.com/Graph-Analyzer/data-collector) | Write topology data to the database |
-| [graph-generator](https://github.com/Graph-Analyzer/graph-generator) | Graph Generator API |
+| [graph-generator](https://github.com/Graph-Analyzer/graph-generator) | Graph Generator |
 
 The following repositories can be used in order to create a working setup.
 | Repository | Description |
