@@ -11,8 +11,8 @@ The Graph Analyzer system has been developed as part of a thesis at the FH OST t
 
 ## Documentation
 The complete documentation can be found on the eprints platform of the FH OST:
-- Term project: https://eprints.ost.ch/id/eprint/1081/
-- Bachelor's thesis: coming soon...
+- Term project: [https://eprints.ost.ch/id/eprint/1081](https://eprints.ost.ch/id/eprint/1081)
+- Bachelor's thesis: [https://eprints.ost.ch/id/eprint/1147](https://eprints.ost.ch/id/eprint/1147)
 
 
 ## Repositories
